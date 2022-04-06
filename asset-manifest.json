@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/trafic-squad/static/js/main.db74a490.js",
+    "index.html": "/trafic-squad/index.html",
+    "main.db74a490.js.map": "/trafic-squad/static/js/main.db74a490.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db74a490.js"
+  ]
+}
